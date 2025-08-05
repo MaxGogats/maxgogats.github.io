@@ -1,3 +1,8 @@
+--- 
+layout: home 
+title: home 
+--- 
+
 # Hello!
 
 Welcome to an insight into my technical life and career that absolutely no one asked for. 
