@@ -5,11 +5,9 @@ title: home
 
 # Hello!
 
-Welcome to an insight into my technical life and career that absolutely no one asked for. 
+Welcome to my technical focused blog where I build in public and share ideas.
 
-Blogs have been a source of enjoyment for me to read daily at my computer to learn new things in software. 
-
-Free content has taught me many things in my lifetime and I hope to write or share content which can inspire people 1% of how much it has inspired me.
+Blogs have been a source of enjoyment for me I hope to write or share content which can inspire people 1% of how much it has for me. 
 
 ## About me 
 
@@ -24,6 +22,7 @@ My current title is 'Onboarding Engineer' where I design and implement solutions
 ## Posts 
 
 *Currently* I am working through the Fast.ai machine learning textbook to learn how machine learning really works. I wrote a paper in college about supervised and unsupervised machine learning which was fun to do and sounds really smart and interesting when talked about. In reality, it is way simpler than it sounds, mostly about training data and reinforcement learning. 
+
 I do intend to use this website as a place to review my current learnings and hopefully develop some projects to turn me into an employable data professional.
 
 ## Failed Project Ideas 
