@@ -11,7 +11,7 @@ author:
 
 # Sidebar settings
 sidebar:
-  title: "Max Gogats"
+  title: "About Me"
   nav: "sidebar" # defined in _data/navigation.yml
 
 author:
