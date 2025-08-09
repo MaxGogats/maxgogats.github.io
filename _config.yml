@@ -17,3 +17,9 @@ sidebar:
 # Navigation links
 include:
   - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
