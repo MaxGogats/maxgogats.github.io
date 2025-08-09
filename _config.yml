@@ -4,27 +4,24 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 locale: "en-US"
 
-author:
-  name: "Max Gogats"
-  bio: "Software Developer From Rockland County, NY"
-  #avatar: "/assets/images/bio-photo.jpg"
-
 # Sidebar settings
 sidebar:
   title: "About Me"
   nav: "sidebar" # defined in _data/navigation.yml
 
 author:
-  name: "Your Name"
+  name: "Max Gogats"
   bio: "Software Developer from Rockland County, NY"
   location: "Rockland County, NY"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MaxGogats"
-    - label: "Email"
+    - label: "Email: mgogats@gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:mgogats@gmail.com"
+    - label: "LinkedIn"
+      url: "/linkedin.com/https://www.linkedin.com/in/max-gogats-a0181b14a/"
 
 # Navigation links
 include:
