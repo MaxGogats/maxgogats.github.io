@@ -1,9 +1,7 @@
 --- 
 layout: home 
-title: home 
+title: Hello
 --- 
-
-# Hello!
 
 Welcome to my technical focused blog where I build in public and share ideas.
 
