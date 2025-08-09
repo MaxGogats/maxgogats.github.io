@@ -11,8 +11,20 @@ author:
 
 # Sidebar settings
 sidebar:
-  title: "About Me"
+  title: "Max Gogats"
   nav: "sidebar" # defined in _data/navigation.yml
+
+author:
+  name: "Your Name"
+  bio: "Software Developer from Rockland County, NY"
+  location: "Rockland County, NY"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MaxGogats"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mgogats@gmail.com"
 
 # Navigation links
 include:
