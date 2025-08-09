@@ -1,4 +1,1 @@
-# remote_theme: "niklasbuschmann/contrast"
-
-#plugins:
-#  - jekyll-remote-theme
+theme: minima 
