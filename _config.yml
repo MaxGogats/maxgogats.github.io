@@ -1,1 +1,20 @@
 remote_theme: "mmistakes/minimal-mistakes"
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"
+locale: "en-US"
+
+author:
+  name: "Your Name"
+  bio: "Short bio about you."
+  avatar: "/assets/images/bio-photo.jpg"
+
+# Sidebar settings
+sidebar:
+  title: "About Me"
+  nav: "sidebar" # defined in _data/navigation.yml
+
+# Navigation links
+include:
+  - _pages
+
