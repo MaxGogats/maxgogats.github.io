@@ -5,9 +5,9 @@ minimal_mistakes_skin: "default"
 locale: "en-US"
 
 author:
-  name: "Your Name"
-  bio: "Short bio about you."
-  avatar: "/assets/images/bio-photo.jpg"
+  name: "Max Gogats"
+  bio: "Software Developer From Rockland County, NY"
+  #avatar: "/assets/images/bio-photo.jpg"
 
 # Sidebar settings
 sidebar:
