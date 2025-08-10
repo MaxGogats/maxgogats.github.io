@@ -1,11 +1,10 @@
-# _posts/2025-08-08-Fast.ai-Chapter-1
-
-
 ---
-layout:   post 
-title:    "Post #1"
+layout:  single 
+title:    "Deep Learnings"
 date:     2025-08-08 
 tags: [intro, welcome]
+classes: wide 
+sidebar: false 
 ---
 
 I came across this course/book https://course.fast.ai/ from a hackernews/lobst.ers link about Fast.ai, an educational machine learning platform. 
