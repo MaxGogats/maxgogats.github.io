@@ -6,3 +6,11 @@ sidebar:
   - title: "Contact"
     url: /contact/
 
+main:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /_posts/
+

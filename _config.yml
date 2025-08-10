@@ -12,6 +12,7 @@ sidebar:
 author:
   name: "Max Gogats"
   bio: "Software Developer from Rockland County, NY"
+  avatar: "/assets/images/headshot-new.jpg"
   location: "Rockland County, NY"
   links:
     - label: "GitHub"
@@ -32,3 +33,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-include-cache
+
+
+
+collections:
+  projects: 
+    output: true 
+    permalink: /projects/:path/
