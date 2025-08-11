@@ -11,6 +11,3 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
-  - title: "Blog"
-    url: /_posts/
-
