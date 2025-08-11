@@ -1,6 +1,6 @@
 ---
 layout:  single 
-title:    "Deep Learnings"
+title:    "Deep Learning with Fast AI"
 date:     2025-08-08 
 tags: [intro, welcome]
 classes: wide 
