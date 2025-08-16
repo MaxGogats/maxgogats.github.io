@@ -5,6 +5,8 @@ sidebar:
     url: /projects/
   - title: "Contact"
     url: /contact/
+  - titel: "Resume" 
+    url: /resume/ 
 
 main:
   - title: "Home"

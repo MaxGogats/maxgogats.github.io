@@ -23,6 +23,8 @@ author:
       url: "mailto:mgogats@gmail.com"
     - label: "LinkedIn"
       url: "/linkedin.com/https://www.linkedin.com/in/max-gogats-a0181b14a/"
+    - label: "Resume" 
+      url: "/assets/files/maxgogatsresume.pdf"
 
 # Navigation links
 include:
